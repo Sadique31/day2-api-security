@@ -42,7 +42,7 @@ tracking when it has not already been tracked.
 Replace `YOUR-USERNAME` with your GitHub username:
 
 ``` bash
-git clone https://github.com/YOUR-USERNAME/day2-api-security.git
+git clone https://github.com/Sadique31/day2-api-security.git
 cd day2-api-security
 ```
 
